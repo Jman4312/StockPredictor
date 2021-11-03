@@ -11,3 +11,8 @@ pip install sklearn
 pip install tensorflow
 
 Now you have all your required files! Nice!  Go ahead and pull the code from StockChangePredictor.py and run it, and it should work like a charm.  If you want to check another stock then change the ticker.
+
+Future Improvements:
+-Accept different input formats for the stock ticker
+-Error Handling
+-Deploying in the cloud
