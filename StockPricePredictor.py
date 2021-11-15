@@ -9,7 +9,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout, LSTM
 
 #  Load Data
-company = 'FB'
+company = 'AAPL'
 
 start = dt.datetime(2017, 1, 1)
 end = dt.datetime(2021, 1, 1)
